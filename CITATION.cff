@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Keim
+    given-names: Brandon
+    orcid: https://orcid.org/0009-0006-8688-3642
+title: "SW_VERT_PROFILES"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14163661
+date-released: 2024-11-14
